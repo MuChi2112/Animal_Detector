@@ -1,5 +1,5 @@
 # Animal Detector Application
-[img](https://github.com/MuChi2112/Animal_Detector/blob/main/Animal%20Decetor%20pic.png?raw=true)
+![img](https://github.com/MuChi2112/Animal_Detector/blob/main/Animal%20Decetor%20pic.png?raw=true)
 
 ## Introduction
 The Animal Detector is a desktop application designed to identify animal species from images. This application employs a convolutional neural network (CNN) model for image classification and is built using Python with libraries such as Tkinter, OpenCV, PIL, NumPy, and TensorFlow.
@@ -10,14 +10,14 @@ The Animal Detector is a desktop application designed to identify animal species
 - Deep Learning Powered: Utilizes a pre-trained CNN for accurate animal species classification.
 - Supports Various Image Formats: Compatible with common image file formats.
 ## Requirements
-  -Python 3.x 
-  -OpenCV
-  -PIL
-  -NumPy
-  -TensorFlow
-  -imutils
-  -Tkinter
-  -dataset at [kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals/data)
+- Python 3.x 
+- OpenCV
+- PIL
+- NumPy
+- TensorFlow
+- imutils
+- Tkinter
+- dataset at [kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals/data)
 
 ## Installation
 Ensure you have Python installed on your system. Install required libraries using pip:
