@@ -17,7 +17,7 @@ The Animal Detector is a desktop application designed to identify animal species
 - TensorFlow
 - imutils
 - Tkinter
-- dataset at [kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals/data)
+- dataset at [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals/data)
 
 ## Installation
 Ensure you have Python installed on your system. Install required libraries using pip:
